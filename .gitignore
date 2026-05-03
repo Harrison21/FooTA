@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Model weights & checkpoints
+*.pth
+*.pt
+ckpts/
+
+# Experiment outputs
+exp/
+experiment.log
+train_football.log
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
